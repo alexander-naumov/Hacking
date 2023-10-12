@@ -1,3 +1,5 @@
+<img align="center" src="book.png">
+
 Hacking
 ====
 
@@ -11,3 +13,5 @@ It's also worth noting that much of the exploits won't work under GCC 4 with the
 detection. Instead of stack-smashing and moving on, it will detect buffer overflows and seg fault
 without overflowing the buffers. (Using the VM lets you play with the exploits).
 
+## Related Links
+https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441 - book on amazon
